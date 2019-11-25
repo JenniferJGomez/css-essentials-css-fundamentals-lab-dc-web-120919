@@ -11,3 +11,7 @@ h1 {
 img {
   margin: auto;
 }
+
+#details {
+  display: block;
+}
