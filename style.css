@@ -12,6 +12,10 @@ img {
   margin: auto;
 }
 
+#featured-property p {
+  width: 800p;
+}
+
 #details {
   display: block;
 }
